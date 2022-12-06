@@ -6,7 +6,7 @@ To use this script, you need to have the AzureAD module installed. You can insta
 
 		Install-Module -Name AzureAD
 
-This script will export all the members of all the groups that starts with the user input to a CSV file. The CSV file will contain the following columns:
+This script will export all the members of all the groups that starts with the user input to a CSV file stored in C:\Temp. The CSV file will contain the following columns:
 
 * DisplayName
 * GroupName
