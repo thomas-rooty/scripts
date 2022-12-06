@@ -1,4 +1,4 @@
-# Scripts made to improve QoL
+# 📃 Scripts made to improve QoL
 ## AD
 ### AD-EXPORT-GS-MEMBERS.ps1
 
